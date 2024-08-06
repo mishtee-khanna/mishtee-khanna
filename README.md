@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making nerdy jokes 
 - 📫 How to reach me, probably not. Very selectively extroverted
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I beleive we should not execute people but codes
+- ⚡ Fun fact: I believe we should execute codes not people
 
 <!---
 mishtee-khanna/mishtee-khanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
