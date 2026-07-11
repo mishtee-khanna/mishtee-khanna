@@ -1,5 +1,8 @@
 <div align="center">
-<a href="www.linkedin.com/in/mishti-khanna-8b2b7a32b">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mishti%20Khanna&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mishtikhanna07@gmail.com">
@@ -13,13 +16,13 @@
 
 <br/>
 
-## 👋 Mishti Khanna 
+## 👋 About Me
 
 Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience building intelligent, data-driven systems — from predictive models to end-to-end ML pipelines. Skilled at turning raw data into actionable insights and deploying models that solve real business problems.
 
 - 🤖 &nbsp;Currently building machine learning models and data pipelines for real-world applications
 - 💻 &nbsp;All of my projects live at **[My Projects](https://github.com/mishtee-khanna?tab=repositories)**
-- 💬 &nbsp;Ask me about **Machine Learning · Data Analysis · Python · SQL · Deep Learning**
+- 💬 &nbsp;Ask me about **Machine Learning · Data Analysis · Python · SQL · C++**
 - 📫 &nbsp;Reach me at **mishtikhanna07@gmail.com**
 - ⚡ &nbsp;Fun fact: I find patterns in data almost as fast as I finish a cup of chai
 
@@ -32,8 +35,9 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 
 **ML / Data**
 <br/>
