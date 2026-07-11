@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mishti%20Khanna&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
