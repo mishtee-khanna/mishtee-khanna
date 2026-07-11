@@ -1,11 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Mishti%20Khanna&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://www.linkedin.com/in/your-linkedin-handle">
+<a href="www.linkedin.com/in/mishti-khanna-8b2b7a32b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:mishtikhanna07@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/mishtee-khanna?tab=repositories">
@@ -16,14 +13,14 @@
 
 <br/>
 
-## 👋 About Me
+## 👋 Mishti Khanna 
 
 Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience building intelligent, data-driven systems — from predictive models to end-to-end ML pipelines. Skilled at turning raw data into actionable insights and deploying models that solve real business problems.
 
 - 🤖 &nbsp;Currently building machine learning models and data pipelines for real-world applications
 - 💻 &nbsp;All of my projects live at **[My Projects](https://github.com/mishtee-khanna?tab=repositories)**
 - 💬 &nbsp;Ask me about **Machine Learning · Data Analysis · Python · SQL · Deep Learning**
-- 📫 &nbsp;Reach me at **your.email@example.com**
+- 📫 &nbsp;Reach me at **mishtikhanna07@gmail.com**
 - ⚡ &nbsp;Fun fact: I find patterns in data almost as fast as I finish a cup of chai
 
 <br/>
@@ -66,5 +63,5 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
