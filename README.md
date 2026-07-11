@@ -7,9 +7,9 @@ Passionate AI/ML Engineer and Data Analyst with hands-on experience building int
 ---
 
 - 🤖 Currently building machine learning models and data pipelines for real-world applications
-- 💻 All of my projects are available at [My Projects](https://github.com/mishtee-khanna?tab=repositories)
+- 💻 All of my projects are available at [My Projects](https://github.com/YOUR_USERNAME?tab=repositories)
 - 💬 Ask me about Machine Learning, Data Analysis, Python, SQL, Deep Learning
-- 📫 How to reach me: **mishtikhanna07@gmail.com**
+- 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: I love finding patterns in data almost as much as I love a good cup of chai
 
 ---
@@ -23,3 +23,7 @@ Passionate AI/ML Engineer and Data Analyst with hands-on experience building int
 **Tools:** ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+## 🏙️ 3D Contribution Graph
+
+![3D contribution graph](profile-3d-contrib/profile-night-rainbow.svg)
