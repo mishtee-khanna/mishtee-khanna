@@ -1,69 +1,166 @@
+# 👋 Hi, I'm Mishtee Khanna
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%92%BB;Software+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%26+Solving+Problems;Data+Structures+%7C+Cloud+%7C+AI+%F0%9F%A7%A0" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mishtee-khanna&style=for-the-badge&color=ff69b4"/>
+
+</div>
+
+---
+
+## 🌸 About Me
+
+```yaml
+name: Mishtee Khanna
+education: B.Tech Computer Science Engineering
+
+currently_learning:
+  - Data Structures & Algorithms
+  - Data Analytics
+  - Machine Learning
+  - Cloud Computing
+
+languages:
+  - C++
+  - Python
+  - Java
+  - JavaScript
+
+interests:
+  - Software Development
+  - AI/ML Applications
+  - Full Stack Development
+  - Problem Solving
+```
+
+---
+
+# 🚀 Developer Journey
+
+<div align="center">
+
+| Journey | Status |
+|---|---|
+| 🧩 LeetCode Problems | 250+ Solved |
+| 💻 Programming Languages | C++ • Python • Java • JS |
+| ☁️ Cloud | AWS Learning Journey |
+| 🤖 AI/ML | Building ML Projects |
+| 🌐 Development | Full Stack Projects |
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,sql"/>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,git,github,vscode"/>
+
+### Cloud & Data
+
+<img src="https://skillicons.dev/icons?i=aws,mysql,postgres,mongodb"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🌾 Fasal Suraksha | Parametric crop insurance dApp using blockchain and weather data | React • Solidity • Polygon |
+| 💧 Precision Irrigation System | ML-based soil moisture forecasting system | Python • XGBoost • NASA POWER API |
+| 🏧 ATM System | Interactive banking management application | React • JavaScript |
+| 🎉 Event Management System | Web-based event management platform | HTML • CSS • JS |
+
+---
+
+# 🧠 Problem Solving
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/mishtee-khanna?theme=dark&font=Baloo&ext=heatmap"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishtee-khanna&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtee-khanna&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishtee-khanna&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mishtee-khanna/mishtee-khanna/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```text
+☑ Strengthen DSA fundamentals
+☑ Build impactful software projects
+☑ Explore AI + Data Science
+☑ Improve system design skills
+☑ Contribute to open source
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mishtee-khanna">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:mishtikhanna07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/mishtee-khanna?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
 
-<br/>
 
-## 👋 About Me
-
-Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience building intelligent, data-driven systems — from predictive models to end-to-end ML pipelines. Skilled at turning raw data into actionable insights and deploying models that solve real business problems.
-
-- 🤖 &nbsp;Currently building machine learning models and data pipelines for real-world applications
-- 💻 &nbsp;All of my projects live at **[My Projects](https://github.com/mishtee-khanna?tab=repositories)**
-- 💬 &nbsp;Ask me about **Machine Learning · Data Analysis · Python · SQL · C++**
-- 📫 &nbsp;Reach me at **mishtikhanna07@gmail.com**
-- ⚡ &nbsp;Fun fact: I find patterns in data almost as fast as I finish a cup of chai
-
-<br/>
-
-## 🛠️ Tech Stack
+---
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+## ✨ "Code. Learn. Build. Repeat." ✨
 
+⭐ Thanks for visiting my profile!
 
-**ML / Data**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## 🏙️ 3D Contribution Graph
-
-<div align="center">
-
-![3D contribution graph](profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
