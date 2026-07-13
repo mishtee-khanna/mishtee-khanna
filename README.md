@@ -122,7 +122,7 @@ interests:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mishtee-khanna/mishtee-khanna/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/mishtee-khanna/mishtee-khanna/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
