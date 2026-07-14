@@ -1,10 +1,4 @@
 # 👋 Hi, I'm Mishti Khanna
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%92%BB;Software+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%26+Solving+Problems;Data+Structures+%7C+ML+%7C+AI+%F0%9F%A7%A0" />
-</div>
-
 <br>
 
 <div align="center">
@@ -18,9 +12,16 @@
 <a href="https://github.com/mishtee-khanna?tab=repositories">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
 </div>
+<br>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%92%BB;Software+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%26+Solving+Problems;Data+Structures+%7C+AI+%7C+ML+%F0%9F%A7%A0" />
+</div>
 <br/>
 
 ## 👋 About Me
