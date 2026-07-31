@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Mishti Khanna
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mishti%20Khanna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=18"/>
+</div>
 <br>
 
 <div align="center">
