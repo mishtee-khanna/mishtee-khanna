@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Mishti Khanna
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mishti%20Khanna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Analyst&descAlignY=55&descSize=18"/>
+</div>
 <br>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">
@@ -46,7 +47,6 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-
 **ML / Data**
 <br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -63,6 +63,9 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 </div>
 
 <br/>
+<div align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mishtee-khanna&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
 
 ## 🏙️ 3D Contribution Graph
 
@@ -76,4 +79,9 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/mishtee-khanna/mishtee-khanna/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
