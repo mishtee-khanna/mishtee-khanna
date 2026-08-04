@@ -14,7 +14,7 @@
 <a href="https://github.com/mishtee-khanna?tab=repositories">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/mishtee_khanna/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
