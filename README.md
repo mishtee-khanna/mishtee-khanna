@@ -5,6 +5,8 @@
 
 <div align="center">
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mishtikhanna.vercel.app/)
 <a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
