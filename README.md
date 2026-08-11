@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/mishtee-khanna?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/mishtee_khanna/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
