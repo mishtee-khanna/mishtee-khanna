@@ -6,17 +6,13 @@
 
 <br/>
 
-<a href="https://komarev.com/ghpvc/?username=mishtee-khanna">
-<img src="https://komarev.com/ghpvc/?username=mishtee-khanna&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<br/><br/>
-
-<a href="https://mishtikhanna.vercel.app/" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="45" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:mishtikhanna07@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://github.com/mishtee-khanna?tab=repositories" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/mishtee_khanna/" title="LeetCode"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="45" alt="LeetCode"/></a>
+<p align="center">
+  <a href="https://mishtikhanna.vercel.app/" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mishtikhanna07@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mishtee-khanna?tab=repositories" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/mishtee_khanna/" title="LeetCode"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="48" alt="LeetCode"/></a>
+</p>
 
 </div>
 
@@ -40,8 +36,8 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 
 | 💻 **Languages** | 📊 **ML / Data** | 🧰 **Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/> |
-| **Python · C · C++ · C# · Java · MySQL** | **NumPy · Pandas · Matplotlib · Scikit-learn** | **Git · GitHub · VS Code** |
+| <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> | <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="55" alt="Jupyter"/> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/> |
+| **Python · C · C++ · C# · Java · MySQL** | **NumPy · Pandas · Matplotlib · Scikit-learn** | **Jupyter · Git · GitHub · VS Code** |
 
 </div>
 
