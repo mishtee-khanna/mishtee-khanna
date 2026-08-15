@@ -67,37 +67,10 @@ I like to **understand the problem first**, find patterns in the data, experimen
 
 <div align="center">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/>
-
-<br/>
-
-<sub><b>Python</b> · <b>C</b> · <b>C++</b> · <b>C#</b> · <b>Java</b> · <b>MySQL</b></sub>
-
-<br/><br/>
-
-### 📊 ML / Data
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="58" height="58" alt="NumPy"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="58" height="58" alt="Pandas"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="58" height="58" alt="Matplotlib"/> &nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> &nbsp;
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="58" height="58" alt="Seaborn"/>
-
-<br/>
-
-<sub><b>NumPy</b> · <b>Pandas</b> · <b>Matplotlib</b> · <b>Scikit-learn</b> · <b>Seaborn</b></sub>
-
-<br/><br/>
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Jupyter Git GitHub VS Code"/>
-
-<br/>
-
-<sub><b>Jupyter</b> · <b>Git</b> · <b>GitHub</b> · <b>VS Code</b></sub>
+| 💻 **Languages** | 📊 **ML / Data** | 🧰 **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" height="52" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" height="52" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52" height="52" alt="Matplotlib"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="52" height="52" alt="Seaborn"/> | <img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Jupyter Git GitHub VS Code"/> |
+| **Python · C · C++ · C# · Java · MySQL** | **NumPy · Pandas · Matplotlib · Scikit-learn · Seaborn** | **Jupyter · Git · GitHub · VS Code** |
 
 </div>
 
