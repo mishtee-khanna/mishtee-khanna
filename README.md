@@ -22,32 +22,42 @@
 
 <div align="center">
 
-### ✨ Turning Data Into Intelligent Solutions
+### Building with Data. Creating with Code. 🚀
 
-**AI/ML Engineer · Data Analyst · Problem Solver**
-
-<br/>
-
-🤖 **AI & ML**  ·  📊 **Data & Insights**  ·  💻 **Software Development**
-
-<br/><br/>
-
-> I build intelligent, data-driven systems that turn **raw data into useful insights** and **ideas into working software**.
+<p>
+I'm a <strong>Computer Science student</strong> passionate about <strong>AI/ML, Data Analytics and Software Development</strong>.
+I enjoy taking a problem, exploring the data behind it, and turning the idea into something that actually works.
+</p>
 
 <br/>
 
-**🚀 Currently Building**  
-Machine Learning Models · Data Pipelines · AI-powered Applications
-
-**💡 Ask Me About**  
-Machine Learning · Data Analysis · Python · SQL · C++
-
-**📬 Find Me Online**  
-<a href="https://github.com/mishtee-khanna?tab=repositories">Projects</a> · <a href="mailto:mishtikhanna07@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">LinkedIn</a>
+🤖 **AI / ML** &nbsp; • &nbsp; 📊 **Data Analytics** &nbsp; • &nbsp; 💻 **Software Development** &nbsp; • &nbsp; 🧩 **Problem Solving**
 
 <br/><br/>
 
-⚡ **Fun Fact:** I find patterns in data almost as fast as I finish a cup of chai ☕
+</div>
+
+### 🚀 What I'm Working On
+
+> Building **machine learning models, data pipelines and AI-powered applications** with a focus on practical, real-world problems.
+
+### 💡 What I Like Working With
+
+**Python** · **C++** · **SQL** · **Machine Learning** · **Data Analysis** · **DSA**
+
+### 🎯 My Approach
+
+I like to **understand the problem first**, find patterns in the data, experiment with different approaches, and then build a clean solution that can be used in the real world.
+
+<br/>
+
+<div align="center">
+
+✨ <strong>Learn → Build → Experiment → Improve → Repeat</strong> ✨
+
+<br/><br/>
+
+☕ <em>Fun fact: I find patterns in data almost as fast as I finish a cup of chai.</em>
 
 </div>
 
