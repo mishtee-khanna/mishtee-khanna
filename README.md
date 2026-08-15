@@ -22,42 +22,36 @@
 
 <div align="center">
 
-### Building with Data. Creating with Code. 🚀
-
-<p>
-I'm a <strong>Computer Science student</strong> passionate about <strong>AI/ML, Data Analytics and Software Development</strong>.
-I enjoy taking a problem, exploring the data behind it, and turning the idea into something that actually works.
-</p>
-
-<br/>
-
-🤖 **AI / ML** &nbsp; • &nbsp; 📊 **Data Analytics** &nbsp; • &nbsp; 💻 **Software Development** &nbsp; • &nbsp; 🧩 **Problem Solving**
-
-<br/><br/>
+### ✨ I build things with code, data & curiosity.
 
 </div>
 
-### 🚀 What I'm Working On
+I'm a **Computer Science student** interested in **AI/ML, Data Analytics and Software Development**. I enjoy taking a problem from **idea → data → model → working solution** and learning something new along the way.
 
-> Building **machine learning models, data pipelines and AI-powered applications** with a focus on practical, real-world problems.
+<br/>
 
-### 💡 What I Like Working With
+**🤖 AI & Machine Learning**  
+Building predictive models and AI-powered applications that solve practical problems.
 
-**Python** · **C++** · **SQL** · **Machine Learning** · **Data Analysis** · **DSA**
+**📊 Data & Analytics**  
+Exploring data, finding patterns and turning numbers into useful insights.
 
-### 🎯 My Approach
-
-I like to **understand the problem first**, find patterns in the data, experiment with different approaches, and then build a clean solution that can be used in the real world.
+**💻 Development & Problem Solving**  
+Working with Python, C++, SQL and DSA while building projects that turn ideas into real software.
 
 <br/>
 
 <div align="center">
 
-✨ <strong>Learn → Build → Experiment → Improve → Repeat</strong> ✨
+**Currently building:** AI/ML projects · Data pipelines · Intelligent applications
 
 <br/><br/>
 
-☕ <em>Fun fact: I find patterns in data almost as fast as I finish a cup of chai.</em>
+`Learn` → `Build` → `Experiment` → `Improve` → `Repeat` 🚀
+
+<br/><br/>
+
+☕ *Fun fact: I find patterns in data almost as fast as I finish a cup of chai.*
 
 </div>
 
