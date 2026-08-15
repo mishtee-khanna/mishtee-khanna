@@ -15,18 +15,10 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mishtikhanna.vercel.app/)
-<a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mishtikhanna07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/mishtee-khanna?tab=repositories">
-  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/mishtee_khanna/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mishtikhanna07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mishtee-khanna?tab=repositories"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/mishtee_khanna/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </div>
 
@@ -48,21 +40,27 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" alt="Python C++ MySQL"/>
 
 <br/><br/>
 
-**ML / Data**
+### 📊 ML / Data
 <br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark" alt="ML and Data"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
+
+<br/>
+<sub><b>NumPy</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pandas</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Matplotlib</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Scikit-learn</b></sub>
 
 <br/><br/>
 
-**Tools**
+### 🧰 Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Jupyter Git GitHub VS Code"/>
 
 </div>
 
@@ -83,16 +81,6 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 
 <br/>
 
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="90%"/>
-
-</div>
-
-<br/>
-
 ## 🏙️ 3D Contribution Graph
 
 <div align="center">
@@ -104,7 +92,5 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 <br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>
