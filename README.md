@@ -40,27 +40,10 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 
 <div align="center">
 
-### 💻 Languages
-<br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/>
-
-<br/><br/>
-
-### 📊 ML / Data
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
-
-<br/>
-<sub><b>NumPy</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Pandas</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Matplotlib</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Scikit-learn</b></sub>
-
-<br/><br/>
-
-### 🧰 Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Jupyter Git GitHub VS Code"/>
+| 💻 **Languages** | 📊 **ML / Data** | 🧰 **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> | <img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Jupyter Git GitHub VS Code"/> |
+| **Python · C · C++ · C# · Java · MySQL** | **NumPy · Pandas · Matplotlib · Scikit-learn** | **Jupyter · Git · GitHub · VS Code** |
 
 </div>
 
