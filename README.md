@@ -28,41 +28,26 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="33%" align="center">
+🤖 **AI & ML**  ·  📊 **Data & Insights**  ·  💻 **Software Development**
 
-### 🤖 AI & ML
+<br/><br/>
 
-Building **intelligent systems**, predictive models, and end-to-end ML pipelines that turn data into useful solutions.
-
-</td>
-<td width="33%" align="center">
-
-### 📊 Data & Insights
-
-Working with data to uncover **patterns, trends, and actionable insights** using Python and modern data tools.
-
-</td>
-<td width="33%" align="center">
-
-### 💻 Development
-
-Combining **DSA, programming, and software development** to turn ideas into practical projects.
-
-</td>
-</tr>
-</table>
+> I build intelligent, data-driven systems that turn **raw data into useful insights** and **ideas into working software**.
 
 <br/>
 
-| 🚀 **Currently Building** | 💡 **Ask Me About** | 📬 **Let's Connect** |
-|:---:|:---:|:---:|
-| Machine Learning Models<br/>Data Pipelines<br/>AI-powered Applications | Machine Learning<br/>Data Analysis<br/>Python · SQL · C++ | [My Projects](https://github.com/mishtee-khanna?tab=repositories)<br/>[Email Me](mailto:mishtikhanna07@gmail.com) |
+**🚀 Currently Building**  
+Machine Learning Models · Data Pipelines · AI-powered Applications
 
-<br/>
+**💡 Ask Me About**  
+Machine Learning · Data Analysis · Python · SQL · C++
 
-> ⚡ **Fun Fact:** I find patterns in data almost as fast as I finish a cup of chai ☕
+**📬 Find Me Online**  
+<a href="https://github.com/mishtee-khanna?tab=repositories">Projects</a> · <a href="mailto:mishtikhanna07@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b">LinkedIn</a>
+
+<br/><br/>
+
+⚡ **Fun Fact:** I find patterns in data almost as fast as I finish a cup of chai ☕
 
 </div>
 
@@ -72,10 +57,37 @@ Combining **DSA, programming, and software development** to turn ideas into prac
 
 <div align="center">
 
-| 💻 **Languages** | 📊 **ML / Data** | 🧰 **Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" height="55" alt="Seaborn"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/> |
-| **Python · C · C++ · C# · Java · MySQL** | **NumPy · Pandas · Matplotlib · Scikit-learn · Seaborn** | **Git · GitHub · VS Code** |
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/>
+
+<br/>
+
+<sub><b>Python</b> · <b>C</b> · <b>C++</b> · <b>C#</b> · <b>Java</b> · <b>MySQL</b></sub>
+
+<br/><br/>
+
+### 📊 ML / Data
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="58" height="58" alt="NumPy"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="58" height="58" alt="Pandas"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="58" height="58" alt="Matplotlib"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> &nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="58" height="58" alt="Seaborn"/>
+
+<br/>
+
+<sub><b>NumPy</b> · <b>Pandas</b> · <b>Matplotlib</b> · <b>Scikit-learn</b> · <b>Seaborn</b></sub>
+
+<br/><br/>
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Jupyter Git GitHub VS Code"/>
+
+<br/>
+
+<sub><b>Jupyter</b> · <b>Git</b> · <b>GitHub</b> · <b>VS Code</b></sub>
 
 </div>
 
