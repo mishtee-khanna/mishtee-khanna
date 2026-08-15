@@ -20,13 +20,51 @@
 
 ## 👋 About Me
 
-Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience building intelligent, data-driven systems — from predictive models to end-to-end ML pipelines. Skilled at turning raw data into actionable insights and deploying models that solve real business problems.
+<div align="center">
 
-- 🤖 &nbsp;Currently building machine learning models and data pipelines for real-world applications
-- 💻 &nbsp;All of my projects live at **[My Projects](https://github.com/mishtee-khanna?tab=repositories)**
-- 💬 &nbsp;Ask me about **Machine Learning · Data Analysis · Python · SQL · C++**
-- 📫 &nbsp;Reach me at **mishtikhanna07@gmail.com**
-- ⚡ &nbsp;Fun fact: I find patterns in data almost as fast as I finish a cup of chai
+### ✨ Turning Data Into Intelligent Solutions
+
+**AI/ML Engineer · Data Analyst · Problem Solver**
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI & ML
+
+Building **intelligent systems**, predictive models, and end-to-end ML pipelines that turn data into useful solutions.
+
+</td>
+<td width="33%" align="center">
+
+### 📊 Data & Insights
+
+Working with data to uncover **patterns, trends, and actionable insights** using Python and modern data tools.
+
+</td>
+<td width="33%" align="center">
+
+### 💻 Development
+
+Combining **DSA, programming, and software development** to turn ideas into practical projects.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| 🚀 **Currently Building** | 💡 **Ask Me About** | 📬 **Let's Connect** |
+|:---:|:---:|:---:|
+| Machine Learning Models<br/>Data Pipelines<br/>AI-powered Applications | Machine Learning<br/>Data Analysis<br/>Python · SQL · C++ | [My Projects](https://github.com/mishtee-khanna?tab=repositories)<br/>[Email Me](mailto:mishtikhanna07@gmail.com) |
+
+<br/>
+
+> ⚡ **Fun Fact:** I find patterns in data almost as fast as I finish a cup of chai ☕
+
+</div>
 
 <br/>
 
