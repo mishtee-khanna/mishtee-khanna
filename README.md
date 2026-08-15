@@ -70,8 +70,8 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishtee-khanna&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtee-khanna&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mishtee-khanna&theme=radical" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mishtee-khanna&theme=radical" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
