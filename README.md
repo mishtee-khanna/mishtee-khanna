@@ -10,15 +10,23 @@
 <img src="https://komarev.com/ghpvc/?username=mishtee-khanna&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mishtikhanna.vercel.app/)
-<a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mishtikhanna07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/mishtee-khanna?tab=repositories"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/mishtee_khanna/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://mishtikhanna.vercel.app/" title="Portfolio">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="45" alt="Portfolio"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mishti-khanna-8b2b7a32b" title="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:mishtikhanna07@gmail.com" title="Email">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/mishtee-khanna?tab=repositories" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/mishtee_khanna/" title="LeetCode">
+<img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="45" alt="LeetCode"/>
+</a>
 
 </div>
 
