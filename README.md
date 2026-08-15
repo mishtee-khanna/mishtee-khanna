@@ -20,40 +20,14 @@
 
 ## 👋 About Me
 
-<div align="center">
-
-### ✨ I build things with code, data & curiosity.
-
-</div>
-
-I'm a **Computer Science student** interested in **AI/ML, Data Analytics and Software Development**. I enjoy taking a problem from **idea → data → model → working solution** and learning something new along the way.
-
-<br/>
-
-**🤖 AI & Machine Learning**  
-Building predictive models and AI-powered applications that solve practical problems.
-
-**📊 Data & Analytics**  
-Exploring data, finding patterns and turning numbers into useful insights.
-
-**💻 Development & Problem Solving**  
-Working with Python, C++, SQL and DSA while building projects that turn ideas into real software.
-
-<br/>
-
-<div align="center">
-
-**Currently building:** AI/ML projects · Data pipelines · Intelligent applications
-
-<br/><br/>
-
-`Learn` → `Build` → `Experiment` → `Improve` → `Repeat` 🚀
-
-<br/><br/>
-
-☕ *Fun fact: I find patterns in data almost as fast as I finish a cup of chai.*
-
-</div>
+- 🤖 &nbsp;I'm a **Computer Science student** passionate about **AI/ML, Data Analytics and Software Development**.
+- 💻 &nbsp;I enjoy turning ideas into working projects and solving problems through **code, data and experimentation**.
+- 📊 &nbsp;I'm particularly interested in **Machine Learning, Data Analysis, DSA and intelligent applications**.
+- 🧠 &nbsp;I like understanding a problem first, exploring the data, experimenting with different approaches and building a practical solution.
+- 🚀 &nbsp;Currently working on **AI/ML projects, data pipelines and real-world intelligent applications**.
+- 💬 &nbsp;Ask me about **Python, C++, SQL, Machine Learning, Data Analysis and DSA**.
+- 📫 &nbsp;You can reach me at **mishtikhanna07@gmail.com**.
+- ⚡ &nbsp;Fun fact: I find patterns in data almost as fast as I finish a cup of chai. ☕
 
 <br/>
 
