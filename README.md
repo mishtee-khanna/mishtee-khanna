@@ -42,7 +42,7 @@ Passionate **AI/ML Engineer** and **Data Analyst** with hands-on experience buil
 
 ### 💻 Languages
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" alt="Python C++ MySQL"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/>
 
 <br/><br/>
 
