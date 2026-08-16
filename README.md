@@ -37,8 +37,8 @@
 
 | 💻 **Languages** | 📊 **ML / Data** | 🧰 **Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" height="52" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" height="52" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52" height="52" alt="Matplotlib"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="52" height="52" alt="Seaborn"/> | <img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode&theme=dark" alt="Jupyter Git GitHub VS Code"/> |
-| **Python · C · C++ · C# · Java · MySQL** | **NumPy · Pandas · Matplotlib · Scikit-learn · Seaborn** | **Jupyter · Git · GitHub · VS Code** |
+| <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,mysql&theme=dark" alt="Python C C++ C# Java MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" height="52" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" height="52" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52" height="52" alt="Matplotlib"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="52" height="52" alt="Seaborn"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/> |
+| **Python · C · C++ · C# · Java · MySQL** | **NumPy · Pandas · Matplotlib · Scikit-learn · Seaborn** | **Git · GitHub · VS Code** |
 
 </div>
 
