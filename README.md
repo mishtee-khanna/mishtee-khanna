@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![3D contribution graph](profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://raw.githubusercontent.com/mishtee-khanna/mishtee-khanna/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 </div>
 
